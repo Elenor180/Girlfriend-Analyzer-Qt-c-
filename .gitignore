@@ -1,0 +1,36 @@
+# Build artifacts and temporary files
+
+
+*.user
+*.pro.user
+*.obj
+*.o
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+moc_*
+ui_*
+qrc_*
+debug/
+release/
+build/
+.qmake.stash
+
+# Qt Creator specific
+*.pro.shared
+
+# Platform specific build folders (e.g., for CMake-based Qt projects)
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+_CPack_Packages/
+DartConfiguration.tcl
+Testing/
+
+
+# Windows specific
+Thumbs.db
