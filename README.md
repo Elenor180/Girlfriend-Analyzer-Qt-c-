@@ -90,4 +90,10 @@ It has evolved through **three major versions**:
 
 ---
 
-## 📂 Repository Structure (Planned for Version 3)
+
+---
+
+## ⚠ Disclaimer
+This project is intended for **educational and entertainment purposes only**.  
+It is not a scientific tool and should not be used to make real-life relationship decisions.
+
