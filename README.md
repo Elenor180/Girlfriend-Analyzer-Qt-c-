@@ -94,6 +94,8 @@ It has evolved through **three major versions**:
 ---
 
 ## ⚠ Disclaimer
-This project is intended for **educational and entertainment purposes only**.  
-It is not a scientific tool and should not be used to make real-life relationship decisions.
+This project is intended for **educational and entertainment purposes only**. 
+Although it may assist in evaluation of certain characteristics of your partner.
+It is not a scientific tool yet and should not be used to make real-life relationship decisions.
+
 
